@@ -1,5 +1,7 @@
 How to use:
 
+Install Pandas 
+
 Put this script into your export folder where all your Apple Health CSVs live.
 
 Run it in IDLE or with:python convert_to_googlefit.py
