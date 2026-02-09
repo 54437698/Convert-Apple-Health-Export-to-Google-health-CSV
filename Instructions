@@ -23,4 +23,6 @@ Outputs timestamp,value,unit.
 
 Handles workouts separately with richer fields.
 
+Remember, not all services can import all fields.
+
 Good luck...   Apple sucks !
